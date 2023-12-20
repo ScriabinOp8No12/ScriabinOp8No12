@@ -17,6 +17,8 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="width:75px;" title="Google Cloud"/>
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="width:75px;" title="Amazon Web Services"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="width:75px;" title="Nginx"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width:75px;" title="Node.js"/>
@@ -26,6 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" style="width:75px;" title="Sequelize"/>
   &nbsp;
   <img src="https://res.cloudinary.com/dn8rdavoi/image/upload/v1703041007/icons%20for%20github/128-1286693_flask-framework-logo-svg-hd-png-download_zqdz9i.jpg" style="width:75px;" title="Flask"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" style="width:75px;" title="SQLAlchemy"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="width:75px;" title="PostgreSQL"/>
   &nbsp;
@@ -49,6 +53,18 @@
   &nbsp;
   <img src="https://res.cloudinary.com/dn8rdavoi/image/upload/v1702105824/icons%20for%20github/render-icon2_g4zrja.png" style="width:75px;" title="Render" />
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" style="width:75px;" title="Docker"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" style="width:75px;" title="Pytest"/>
+  &nbsp;
+  <img src="https://res.cloudinary.com/dn8rdavoi/image/upload/v1703048402/icons%20for%20github/autohotkey_image_knkztk.png" style="width:75px;" title="Autohotkey" />
+  &nbsp;
+  <img src="https://res.cloudinary.com/dn8rdavoi/image/upload/v1703048508/icons%20for%20github/Tesseract_OCR_logo__Google_gvah4g.png" style="width:75px;"  title="Pytesseract OCR" />
+  &nbsp;
+  <img src="https://res.cloudinary.com/dn8rdavoi/image/upload/v1703048764/icons%20for%20github/OpenCV_logo_no_text_dttfhq.png" style="width:75px;"  title="OpenCV" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="width:75px;" title="Numpy"/>
+  &nbsp;
+  <img src="https://res.cloudinary.com/dn8rdavoi/image/upload/v1703049038/icons%20for%20github/pandas_df_image_iqivag.ico" style="width:75px;"  title="Pandas DataFrame" />
   &nbsp;
 </p>
