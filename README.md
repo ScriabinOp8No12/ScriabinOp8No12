@@ -1,6 +1,4 @@
-### <h2> Hi I'm Nathan 😁 </h2>
-
-<h1>I'm a Programmer, Pianist, Go/Baduk teacher, and Entrepreneur!</h1>
+<h1>Hi I'm Nathan! I'm a Programmer, Pianist, Go/Baduk teacher, and Entrepreneur.</h1>
 
 - 🌱 You'll likely find me programming, teaching, practicing piano, watching anime, playing tennis, or hanging out with family and friends
 - ⚡ Fun fact 1: I performed a piano concerto in front of over 1000 people when I was 12 years old 
