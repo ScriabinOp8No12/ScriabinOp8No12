@@ -4,6 +4,7 @@
 - ⚡ Fun fact 1: I performed a piano concerto in front of over 1000 people when I was 12 years old 
 - ⚡ Fun fact 2: I started a boba company 🧋 while in college, developing my own handmade boba recipe, and sold over 1000 cups of boba over several events 
 - ⚡ Fun fact 3: I achieved a "Grandmaster" equivalent rating in Go/Baduk when I was 15 years old. On Sundays, I volunteer by teaching at the local Go club where I originally learned to play Go, and have been doing so for the last 14 years
+- :star: I believe anyone is capable of achieving anything they want, as long as they put in the effort to learn from their mistakes, and commit to a routine for many years!  Saying you aren't talented/gifted is just an excuse for giving up
 
 <h2> Languages and Tools </h2>
 
