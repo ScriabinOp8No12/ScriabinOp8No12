@@ -18,7 +18,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="width:75px;" title="Google Cloud"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="width:75px;" title="Amazon Web Services"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="width:75px;" title="Amazon Web Services"/>
   &nbsp;
   <img src="https://res.cloudinary.com/dn8rdavoi/image/upload/v1706342971/ChatGPT_logo_mrbr5l.png" style="width:75px;"  title="OpenAI" />
   &nbsp;
@@ -46,7 +46,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width:75px;" title="CSS3"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="width:75px;" title="Tailwind"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="width:75px;" title="Tailwind"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:75px;" title="React"/>
   &nbsp;
