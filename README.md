@@ -16,6 +16,8 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width:75px;" title="Typescript"/>
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="width:75px;" title="Microsoft Azure"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="width:75px;" title="Google Cloud"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="width:75px;" title="Amazon Web Services"/>
@@ -54,6 +56,8 @@
   &nbsp;
   <img src="https://res.cloudinary.com/dn8rdavoi/image/upload/v1702106394/icons%20for%20github/certbot-icon_vdpnxu.png" style="width:75px;" title="Certbot"/>
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" style="width:75px;" title="Supabase"/>
+  &nbsp;
   <img src="https://res.cloudinary.com/dn8rdavoi/image/upload/v1702106111/icons%20for%20github/cloudinary_krpbqq.svg" style="width:75px;" title="Cloudinary"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" style="width:75px;" title="Selenium"/>
@@ -75,5 +79,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="width:75px;" title="Numpy"/>
   &nbsp;
   <img src="https://res.cloudinary.com/dn8rdavoi/image/upload/v1703049038/icons%20for%20github/pandas_df_image_iqivag.ico" style="width:75px;"  title="Pandas DataFrame" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="width:75px;" title="Pycharm"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width:75px;" title="Git Version Control"/>
   &nbsp;
 </p>
