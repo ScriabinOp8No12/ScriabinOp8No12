@@ -78,7 +78,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="width:75px;" title="Numpy"/>
   &nbsp;
-  <img src="https://res.cloudinary.com/dn8rdavoi/image/upload/v1703049038/icons%20for%20github/pandas_df_image_iqivag.ico" style="width:75px;"  title="Pandas DataFrame" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="width:75px;" title="Pycharm"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="width:75px;" title="Pycharm"/>
   &nbsp;
