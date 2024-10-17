@@ -22,6 +22,8 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="width:75px;" title="Amazon Web Services"/>
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" style="width:75px;" title="Digital Ocean"/>
+  &nbsp;
   <img src="https://res.cloudinary.com/dn8rdavoi/image/upload/v1706342971/ChatGPT_logo_mrbr5l.png" style="width:75px;"  title="OpenAI" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="width:75px;" title="Nginx"/>
